@@ -1,5 +1,7 @@
 # SHL Assessment Recommender Agent 🚀
 
+**Live Demo:** [https://assignment-for-shl-1.onrender.com/](https://assignment-for-shl-1.onrender.com/)
+
 An AI-powered conversational agent designed to help recruiters and hiring managers discover the most relevant SHL assessments from the product catalog.
 
 This project was built for the **SHL Labs AI Intern Take-home Assignment**.
