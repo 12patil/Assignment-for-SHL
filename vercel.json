@@ -1,4 +1,9 @@
 {
+  "build": {
+    "env": {
+      "ENABLE_UV": "0"
+    }
+  },
   "builds": [
     {
       "src": "api/index.py",
